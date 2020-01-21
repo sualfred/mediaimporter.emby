@@ -122,6 +122,13 @@ msgstr ""
 
 msgctxt "#32034"
 msgid "Show server messages as notifications"
+
+msgctxt "#32040"
+msgid "Synchronization"
+msgstr ""
+
+msgctxt "#32041"
+msgid "Use Kodi Companion server plugin"
 msgstr ""
 
 #. Titel of the dialog to enter the base URI of the Emby server to lookup

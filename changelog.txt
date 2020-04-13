@@ -1,6 +1,7 @@
 [B]Version 0.0.9[/B]
 - don't set the custom "emby" unique ID as the default (fixes #13)
 - properly import tags from "TagItems" instead of "Tags" (fixes #19)
+- import thumbnail for actors
 
 [B]Version 0.0.8[/B]
 -  don't attach the container type to direct stream URLs
